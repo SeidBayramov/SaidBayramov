@@ -6,9 +6,7 @@
 
 # 👨‍💻 Social Media:
 
-<a href="https://www.facebook.com/said.bayramov.984" target="_blank">
-  <i class="fab fa-facebook"></i>
-</a>
+[![Facebook](https://img.shields.io/badge/facebook-%231877F2.svg?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/said.bayramov.984)
 
 
 # 👨‍💻 Languages and Tools:
