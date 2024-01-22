@@ -1,6 +1,6 @@
 # SaidBayramov
-# 💫 About Me:
-Hi 👋, I'm Said Bayramov<br><br>🌱 I’m currently learning C#, Java<br>💬 Ask me about C#, .NET Core, MsSql, C++,Python,Java,HTML/CSS/SCSS, Bootstrap<br>📫 How to reach me seidbayramli2004@gmail.com<br>⚡ Fun fact I love The Marvel Studios<br><br>🔍 I've been interested in programming for about a year
+# 💫Hi 👋, I'm Said Bayramov<br><br>
+🌱 I’m currently learning C#, Java<br>💬 Ask me about C#, .NET Core, MsSql, C++,Python,Java,HTML/CSS/SCSS, Bootstrap<br>📫 How to reach me seidbayramli2004@gmail.com<br>⚡ Fun fact I love The Marvel Studios<br><br>🔍 I've been interested in programming for about a year
 
 
 ## 🌐 Socials:
