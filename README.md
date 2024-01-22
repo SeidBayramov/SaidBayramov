@@ -9,7 +9,6 @@ Hi 👋, I'm Said Bayramov<br><br>🌱 I’m currently learning C#, Java<br>💬
 ![](https://github-readme-streak-stats.herokuapp.com/?user=SeidBayramov&theme=dracula&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=SeidBayramov&theme=dracula&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
----
-[![](https://visitcount.itsvg.in/api?id=SeidBayramov&icon=3&color=1)](https://visitcount.itsvg.in)
+
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
